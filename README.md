@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryamangokarn
 - 👀 I’m interested in Machine Learning and Artificial intelligence 
-- 🌱 I’m currently learning Data Analytics 
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me gokarnaryaman09@gmail.com
 
